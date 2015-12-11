@@ -7,7 +7,7 @@
 * [Getting Started](Slides/gettingStartedWithSpark_v1.1.pptx)
 * [Installing Spark](Slides/FirstSpark v2.pptx)
 * [Programming Spark](Slides/Installing and Getting Started with Spark.pptx)
-* [Spark and MSDS](Slides/Spark and Data Science.pptx)
+* [Spark and Data Science](Slides/Spark and Data Science.pptx)
 
 ## Videos
 
