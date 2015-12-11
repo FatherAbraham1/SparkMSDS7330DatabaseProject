@@ -1,13 +1,13 @@
 # MSDS7330 Database Project: Spark
 
 ## Paper
-[MSDS 7330 Final Databasee Project](paper/AustinSparkMSDS7330DatabaseProject.pdf)
+[MSDS 7330 Final Databasee Project](Paper/AustinSparkMSDS7330DatabaseProject.pdf)
 
 ## Slides
-* [Getting Started Slides](slides/gettingStartedWithSpark_v1.1.pptx)
-* [Installing Spark](slides/FirstSpark v2.pptx)
-* [Programming Spark](slides/Installing and Getting Started with Spark.pptx)
-* [Spark and MSDS slides](slides/Spark and Data Science.pptx)
+* [Getting Started Slides](Slides/gettingStartedWithSpark_v1.1.pptx)
+* [Installing Spark](Slides/FirstSpark v2.pptx)
+* [Programming Spark](Slides/Installing and Getting Started with Spark.pptx)
+* [Spark and MSDS slides](Slides/Spark and Data Science.pptx)
 
 ## Videos
 
