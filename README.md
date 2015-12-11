@@ -1,7 +1,7 @@
 # MSDS7330 Database Project: Spark
 
 ## Paper
-[MSDS 7330 Final Databasee Project](Paper/AustinSparkMSDS7330DatabaseProject.pdf)
+[MSDS 7330 Final Database Project](Paper/AustinSparkMSDS7330DatabaseProject.pdf)
 
 ## Slides
 * [Getting Started Slides](Slides/gettingStartedWithSpark_v1.1.pptx)
